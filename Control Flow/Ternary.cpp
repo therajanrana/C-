@@ -20,5 +20,3 @@ int main(){
     cout <<"The larger number is: " << result << endl; 
 
     return 0;
-
-}
